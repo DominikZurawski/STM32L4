@@ -1,0 +1,4 @@
+../Core/Src/deform.c:45:6:deform_init	3
+../Core/Src/deform.c:99:6:deform_render	3
+../Core/Src/deform.c:125:6:deform_animate	1
+../Core/Src/deform.c:130:6:deform_close	1

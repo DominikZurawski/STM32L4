@@ -1,0 +1,8 @@
+../Core/Src/lcd.c:35:13:lcd_data	16	static
+../Core/Src/lcd.c:100:13:lcd_data16	8	static
+../Core/Src/lcd.c:26:13:lcd_cmd	16	static
+../Core/Src/lcd.c:77:6:lcd_init	16	static
+../Core/Src/lcd.c:152:6:lcd_put_pixel	0	static
+../Core/Src/lcd.c:173:6:lcd_copy	8	static
+../Core/Src/lcd.c:182:6:lcd_transfer_done	0	static
+../Core/Src/lcd.c:187:6:lcd_is_busy	8	static

@@ -1,0 +1,3 @@
+../Core/Src/metaballs.c:55:6:metaballs_init	2
+../Core/Src/metaballs.c:68:6:metaballs_animate	4
+../Core/Src/metaballs.c:87:6:metaballs_render	5

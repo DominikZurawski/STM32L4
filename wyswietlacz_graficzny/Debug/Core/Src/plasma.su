@@ -1,0 +1,4 @@
+../Core/Src/plasma.c:41:6:plasma_init	80	static
+../Core/Src/plasma.c:68:6:plasma_render	40	static
+../Core/Src/plasma.c:87:6:plasma_animate	0	static
+../Core/Src/plasma.c:102:6:plasma_close	8	static

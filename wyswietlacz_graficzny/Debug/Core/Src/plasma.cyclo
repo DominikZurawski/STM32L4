@@ -1,0 +1,4 @@
+../Core/Src/plasma.c:41:6:plasma_init	4
+../Core/Src/plasma.c:68:6:plasma_render	3
+../Core/Src/plasma.c:87:6:plasma_animate	3
+../Core/Src/plasma.c:102:6:plasma_close	1

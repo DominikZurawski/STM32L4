@@ -1,0 +1,3 @@
+../Core/Src/rotozoom.c:41:6:rotozoom_init	1
+../Core/Src/rotozoom.c:50:6:rotozoom_render	4
+../Core/Src/rotozoom.c:83:6:rotozoom_animate	1
