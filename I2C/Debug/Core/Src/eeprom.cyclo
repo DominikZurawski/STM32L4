@@ -1,0 +1,3 @@
+../Core/Src/eeprom.c:9:6:eeprom_wait	2
+../Core/Src/eeprom.c:16:19:eeprom_read	1
+../Core/Src/eeprom.c:22:19:eeprom_write	1
