@@ -1,0 +1,2 @@
+../Core/Src/mcp23s08.c:4:6:mcp_reg_write	24	static
+../Core/Src/mcp23s08.c:13:9:mcp_reg_read	32	static
